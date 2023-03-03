@@ -1,4 +1,6 @@
 # DataBases_2022-2023
+Project proposed by Dr. Surdu Sabina
+
 This project is how I imagined a database for a musical instruments shop would be structured.
 
 Lab2 -> contains queries with different SQL Statements that use several different operators
